@@ -1,0 +1,21 @@
+Parameters
+gamma 0.1
+alpha 1
+epsilon 1
+buffer size 200
+EPOCHS 100
+file data/linear_updown_dummy_noise_10_20_extra_features.csv
+
+SHORT UPDATE
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 0	Reward 659.251425773	Loss 0.0297237358946
+[ 978 1002 1021]
+Logistic Proportional Reward #: 0	Reward 942.728412994	Loss 0.210942631013
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 1	Reward 20443.3855874	Loss 9.81734524924

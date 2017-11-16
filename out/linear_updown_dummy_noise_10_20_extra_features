@@ -1,0 +1,709 @@
+Parameters
+gamma 0.1
+alpha 1
+epsilon 1
+buffer size 200
+EPOCHS 100
+file data/linear_updown_dummy_noise_10_20_extra_features.csv
+
+SHORT UPDATE
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 0	Reward 659.251425773	Loss 0.0278385400992
+[1004  989 1008]
+Logistic Proportional Reward #: 0	Reward 685.622608665	Loss 0.176317402038
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 1	Reward 20443.3855874	Loss 9.13217390409
+[1020 1014  967]
+Logistic Proportional Reward #: 1	Reward 309.849295975	Loss 0.195671003494
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 2	Reward 659.251425773	Loss 0.411941764765
+[1000 1000 1001]
+Logistic Proportional Reward #: 2	Reward 665.843940031	Loss 0.548664283715
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 3	Reward 659.251425773	Loss 0.212898110303
+[ 985  997 1019]
+Logistic Proportional Reward #: 3	Reward 883.395784675	Loss 0.421100422161
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 4	Reward 659.251425773	Loss 0.432572939667
+[ 979 1033  989]
+Logistic Proportional Reward #: 4	Reward 725.175442489	Loss 0.568457446924
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 5	Reward 659.251425773	Loss 0.842523548026
+[ 994 1023  984]
+Logistic Proportional Reward #: 5	Reward 593.326283196	Loss 1.0100627155
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 6	Reward 659.251425773	Loss 0.699987921146
+[ 972 1035  994]
+Logistic Proportional Reward #: 6	Reward 804.285613582	Loss 1.00436940252
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 7	Reward 659.251425773	Loss 1.44862649506
+[ 936 1054 1011]
+Logistic Proportional Reward #: 7	Reward 1153.6899951	Loss 1.77702870162
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 8	Reward 659.251425773	Loss 0.0270423771312
+[ 993 1024  984]
+Logistic Proportional Reward #: 8	Reward 599.917671592	Loss 0.19965536354
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 9	Reward 20443.3855874	Loss 3365629.74775
+[ 411   17 2573]
+Logistic Proportional Reward #: 9	Reward 14912.2661251	Loss 3366243.76622
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 10	Reward 20443.3855874	Loss 1643006.09839
+[ 485   44 2472]
+Logistic Proportional Reward #: 10	Reward 13758.57613	Loss 1643532.55472
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 11	Reward 20443.3855874	Loss 1154940.84842
+[ 608  101 2292]
+Logistic Proportional Reward #: 11	Reward 11761.0465617	Loss 1155316.33268
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 12	Reward 20443.3855874	Loss 424183.867403
+[ 787  217 1997]
+Logistic Proportional Reward #: 12	Reward 8636.19255177	Loss 424408.92
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 13	Reward 20443.3855874	Loss 287222.644279
+[ 700  238 2063]
+Logistic Proportional Reward #: 13	Reward 9644.8472332	Loss 287476.574977
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 14	Reward 20443.3855874	Loss 115095.044343
+[ 733  490 1778]
+Logistic Proportional Reward #: 14	Reward 7548.42769924	Loss 115216.041844
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 15	Reward 20443.3855874	Loss 25136.7955229
+[ 419  326 2256]
+Logistic Proportional Reward #: 15	Reward 12769.6989914	Loss 25399.2002644
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 16	Reward 20443.3855874	Loss 8081.25823327
+[ 894  730 1377]
+Logistic Proportional Reward #: 16	Reward 3843.4346864	Loss 8112.85006237
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 17	Reward 659.251425773	Loss 137658.641504
+[ 623 1469  909]
+Logistic Proportional Reward #: 17	Reward 2544.71162935	Loss 137721.643395
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 18	Reward 659.251425773	Loss 119187.326873
+[ 613 1609  779]
+Logistic Proportional Reward #: 18	Reward 1753.60879256	Loss 119288.515065
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 19	Reward 659.251425773	Loss 130420.085497
+[ 647 1438  916]
+Logistic Proportional Reward #: 19	Reward 2432.63663524	Loss 130464.862962
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 20	Reward 659.251425773	Loss 131993.628478
+[ 708 1259 1034]
+Logistic Proportional Reward #: 20	Reward 2808.41107379	Loss 132021.211267
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 21	Reward 659.251425773	Loss 1214.9149375
+[ 505 1783  713]
+Logistic Proportional Reward #: 21	Reward 2030.49439138	Loss 1360.07051187
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 22	Reward 659.251425773	Loss 935.600284643
+[ 830 1052 1119]
+Logistic Proportional Reward #: 22	Reward 2564.48804626	Loss 932.628945686
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 23	Reward 20443.3855874	Loss 126946.2248
+[ 928 1034 1039]
+Logistic Proportional Reward #: 23	Reward 1391.01938252	Loss 126914.290622
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 24	Reward 20443.3855874	Loss 922617.954711
+[  36    0 2965]
+Logistic Proportional Reward #: 24	Reward 19968.7245608	Loss 922902.267343
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 25	Reward 20443.3855874	Loss 2100348.08908
+[   0    0 3001]
+Logistic Proportional Reward #: 25	Reward 20443.3855874	Loss 2100348.08908
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 26	Reward 20443.3855874	Loss 1904695.97416
+[   0    0 3001]
+Logistic Proportional Reward #: 26	Reward 20443.3855874	Loss 1904695.97416
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 27	Reward 20443.3855874	Loss 59064.7732424
+[  16    6 2979]
+Logistic Proportional Reward #: 27	Reward 20192.8700456	Loss 59161.6348441
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 28	Reward 20443.3855874	Loss 46447.3846047
+[  15    4 2982]
+Logistic Proportional Reward #: 28	Reward 20219.2401026	Loss 46531.9007301
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 29	Reward 20443.3855874	Loss 5595.77202302
+[ 559  175 2267]
+Logistic Proportional Reward #: 29	Reward 11919.2646521	Loss 5914.70117598
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 30	Reward 20443.3855874	Loss 13847.0106105
+[ 682   54 2265]
+Logistic Proportional Reward #: 30	Reward 11095.2003699	Loss 14332.9071194
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 31	Reward 20443.3855874	Loss 45448.8106964
+[ 113    1 2887]
+Logistic Proportional Reward #: 31	Reward 18946.8848509	Loss 45916.3816397
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 32	Reward 20443.3855874	Loss 43443.7532769
+[  79    2 2920]
+Logistic Proportional Reward #: 32	Reward 19388.5833061	Loss 43789.4054067
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 33	Reward 20443.3855874	Loss 33749.6144323
+[ 217    5 2779]
+Logistic Proportional Reward #: 33	Reward 17549.2718282	Loss 34329.1087933
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 34	Reward 20443.3855874	Loss 26425.3538951
+[ 399   23 2579]
+Logistic Proportional Reward #: 34	Reward 15030.9313818	Loss 27038.6859651
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 35	Reward 20443.3855874	Loss 7980.48751491
+[ 260  101 2640]
+Logistic Proportional Reward #: 35	Reward 16349.4342333	Loss 8290.59317694
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 36	Reward 20443.3855874	Loss 16731.0113827
+[ 230   54 2717]
+Logistic Proportional Reward #: 36	Reward 17054.8332589	Loss 17093.0998025
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 37	Reward 20443.3855874	Loss 11491.2037111
+[ 405   90 2506]
+Logistic Proportional Reward #: 37	Reward 14510.1250071	Loss 11908.6946731
+1000
+2000
+3000
+[3001]
+Epoch #: 38	Reward -290100000.0	Loss 9.66707114483e+12
+[1539  637  825]
+Logistic Proportional Reward #: 38	Reward -256699999.985	Loss 8.55369122742e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 39	Reward 659.251425773	Loss 5320.76083515
+[ 880 1617  504]
+Logistic Proportional Reward #: 39	Reward -227999999.988	Loss 7.59697787286e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 40	Reward 659.251425773	Loss 2392.30490044
+[1020 1458  523]
+Logistic Proportional Reward #: 40	Reward -253199999.992	Loss 8.43686859933e+12
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 41	Reward 20443.3855874	Loss 335.045901449
+[ 951 1032 1018]
+Logistic Proportional Reward #: 41	Reward 1100.9510069	Loss 325.227803466
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 42	Reward 659.251425773	Loss 23235.8933806
+[ 675 1411  915]
+Logistic Proportional Reward #: 42	Reward 2241.45597349	Loss 23295.0302556
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 43	Reward 659.251425773	Loss 13639.8157029
+[ 353 2478  170]
+Logistic Proportional Reward #: 43	Reward -140800000.0	Loss 4.68972541374e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 44	Reward 659.251425773	Loss 10348.3089821
+[ 379 2499  123]
+Logistic Proportional Reward #: 44	Reward -161499999.976	Loss 5.37978796303e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 45	Reward 659.251425773	Loss 8487.76383887
+[ 170 2721  110]
+Logistic Proportional Reward #: 45	Reward 263.700570309	Loss 8782.5881197
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 46	Reward 659.251425773	Loss 1922.49484858
+[ 582 2005  414]
+Logistic Proportional Reward #: 46	Reward -150100000.0	Loss 4.99997154807e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 47	Reward 659.251425773	Loss 1815.82158902
+[ 531 1878  592]
+Logistic Proportional Reward #: 47	Reward 1061.39479549	Loss 1999.46971278
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 48	Reward 20443.3855874	Loss 18584.2243785
+[1087  759 1155]
+Logistic Proportional Reward #: 48	Reward 1107.5423953	Loss 18558.3729467
+1000
+2000
+3000
+[3001]
+Epoch #: 49	Reward -290100000.0	Loss 9.667030833e+12
+[1118  697 1186]
+Logistic Proportional Reward #: 49	Reward 1107.54126944	Loss 3805.77881484
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 50	Reward 659.251425773	Loss 529832.951022
+[ 889 1342  770]
+Logistic Proportional Reward #: 50	Reward -61600000.0	Loss 2.04905700094e+12
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 51	Reward 20443.3855874	Loss 623798.236935
+[ 453  547 2001]
+Logistic Proportional Reward #: 51	Reward 10864.4623709	Loss 623995.203018
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 52	Reward 20443.3855874	Loss 635876.047421
+[ 578  660 1763]
+Logistic Proportional Reward #: 52	Reward 8471.38082119	Loss 635969.666541
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 53	Reward 20443.3855874	Loss 631062.138871
+[ 568  764 1669]
+Logistic Proportional Reward #: 53	Reward 7917.6107494	Loss 631142.518971
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 54	Reward 20443.3855874	Loss 613855.598253
+[ 488 1124 1389]
+Logistic Proportional Reward #: 54	Reward 6599.10789785	Loss 613810.967662
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 55	Reward 659.251425773	Loss 346988.955295
+[   0 3001]
+Logistic Proportional Reward #: 55	Reward 659.251425773	Loss 346988.955295
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 56	Reward 659.251425773	Loss 331971.152421
+[   0 3001]
+Logistic Proportional Reward #: 56	Reward 659.251425773	Loss 331971.152421
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 57	Reward 659.251425773	Loss 209560.706184
+[   0 3001]
+Logistic Proportional Reward #: 57	Reward 659.251425773	Loss 209560.706184
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 58	Reward 659.251425773	Loss 357976.913844
+[   0 3001]
+Logistic Proportional Reward #: 58	Reward 659.251425773	Loss 357976.913844
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 59	Reward 659.251425773	Loss 60866.0324012
+[   0 2997    4]
+Logistic Proportional Reward #: 59	Reward 685.621482804	Loss 60898.1899301
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 60	Reward 659.251425773	Loss 31905.5038591
+[ 251 2444  306]
+Logistic Proportional Reward #: 60	Reward 1021.83970995	Loss 32194.8117702
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 61	Reward 659.251425773	Loss 36417.5895519
+[ 729 1930  342]
+Logistic Proportional Reward #: 61	Reward -204699999.983	Loss 6.82080068072e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 62	Reward 659.251425773	Loss 76316.2562488
+[   1 3000]
+Logistic Proportional Reward #: 62	Reward 652.658911515	Loss 76325.9808386
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 63	Reward 659.251425773	Loss 19629.3612594
+[  84 2726  191]
+Logistic Proportional Reward #: 63	Reward 1364.65045135	Loss 19939.4028583
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 64	Reward 659.251425773	Loss 27358.6746674
+[  32 2882   87]
+Logistic Proportional Reward #: 64	Reward 1021.83970995	Loss 27588.9406585
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 65	Reward 659.251425773	Loss 58914.7107041
+[   1 2996    4]
+Logistic Proportional Reward #: 65	Reward 679.028968546	Loss 58946.9912954
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 66	Reward 659.251425773	Loss 6306.09842968
+[ 171 2578  252]
+Logistic Proportional Reward #: 66	Reward 1193.24508065	Loss 6633.07055457
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 67	Reward 20443.3855874	Loss 1883950.26742
+[   5    0 2996]
+Logistic Proportional Reward #: 67	Reward 20377.4604448	Loss 1884055.03144
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 68	Reward 659.251425773	Loss 651962.775396
+[   0 3001]
+Logistic Proportional Reward #: 68	Reward 659.251425773	Loss 651962.775396
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 69	Reward 659.251425773	Loss 171248.619955
+[   1 3000]
+Logistic Proportional Reward #: 69	Reward 652.658911515	Loss 171266.86843
+1000
+2000
+3000
+[3001]
+Epoch #: 70	Reward -290100000.0	Loss 9.66992535477e+12
+[1924 1070    7]
+Logistic Proportional Reward #: 70	Reward -282600000.0	Loss 9.41984108715e+12
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 71	Reward 659.251425773	Loss 1562496.72309
+[   0 3001]
+Logistic Proportional Reward #: 71	Reward 659.251425773	Loss 1562496.72309
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 72	Reward 659.251425773	Loss 1076985.95698
+[   0 3001]
+Logistic Proportional Reward #: 72	Reward 659.251425773	Loss 1076985.95698
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 73	Reward 659.251425773	Loss 473272.332829
+[   0 3001]
+Logistic Proportional Reward #: 73	Reward 659.251425773	Loss 473272.332829
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 74	Reward 659.251425773	Loss 260901.377834
+[   0 3001]
+Logistic Proportional Reward #: 74	Reward 659.251425773	Loss 260901.377834
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 75	Reward 659.251425773	Loss 102854.070418
+[   0 2997    4]
+Logistic Proportional Reward #: 75	Reward 685.621482804	Loss 102887.960522
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 76	Reward 659.251425773	Loss 111676.637023
+[   1 2999    1]
+Logistic Proportional Reward #: 76	Reward 659.251425773	Loss 111696.678985
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 77	Reward 659.251425773	Loss 33506.3622424
+[   7 2990    4]
+Logistic Proportional Reward #: 77	Reward 639.473883	Loss 33550.0602056
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 78	Reward 659.251425773	Loss 20780.7399928
+[  33 2942   26]
+Logistic Proportional Reward #: 78	Reward 613.103825969	Loss 20926.4639451
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 79	Reward 20443.3855874	Loss 9233125.571
+[   0    0 3001]
+Logistic Proportional Reward #: 79	Reward 20443.3855874	Loss 9233125.571
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 80	Reward 20443.3855874	Loss 3454008.88849
+[   0    0 3001]
+Logistic Proportional Reward #: 80	Reward 20443.3855874	Loss 3454008.88849
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 81	Reward 20443.3855874	Loss 3518154.97316
+[   0    0 3001]
+Logistic Proportional Reward #: 81	Reward 20443.3855874	Loss 3518154.97316
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 82	Reward 20443.3855874	Loss 6556131.47913
+[   0    0 3001]
+Logistic Proportional Reward #: 82	Reward 20443.3855874	Loss 6556131.47913
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 83	Reward 20443.3855874	Loss 5067343.78858
+[   0    0 3001]
+Logistic Proportional Reward #: 83	Reward 20443.3855874	Loss 5067343.78858
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 84	Reward 20443.3855874	Loss 6208385.30596
+[   0    0 3001]
+Logistic Proportional Reward #: 84	Reward 20443.3855874	Loss 6208385.30596
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 85	Reward 20443.3855874	Loss 6660267.57427
+[   0    0 3001]
+Logistic Proportional Reward #: 85	Reward 20443.3855874	Loss 6660267.57427
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 86	Reward 20443.3855874	Loss 7442416.33464
+[   0    0 3001]
+Logistic Proportional Reward #: 86	Reward 20443.3855874	Loss 7442416.33464
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 87	Reward 20443.3855874	Loss 9570718.09447
+[   0    0 3001]
+Logistic Proportional Reward #: 87	Reward 20443.3855874	Loss 9570718.09447
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 88	Reward 20443.3855874	Loss 8506797.06035
+[   0    0 3001]
+Logistic Proportional Reward #: 88	Reward 20443.3855874	Loss 8506797.06035
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 89	Reward 20443.3855874	Loss 141351.072502
+[   0   48 2953]
+Logistic Proportional Reward #: 89	Reward 20126.944903	Loss 141821.33935
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 90	Reward 20443.3855874	Loss 142831.772336
+[   0    0 3001]
+Logistic Proportional Reward #: 90	Reward 20443.3855874	Loss 142831.772336
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 91	Reward 20443.3855874	Loss 1483281.36036
+[   0    0 3001]
+Logistic Proportional Reward #: 91	Reward 20443.3855874	Loss 1483281.36036
+1000
+2000
+3000
+[   0    0 3001]
+Epoch #: 92	Reward 20443.3855874	Loss 452200.954527
+[   0    0 3001]
+Logistic Proportional Reward #: 92	Reward 20443.3855874	Loss 452200.954527
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 93	Reward 659.251425773	Loss 516053.294127
+[   2 2268  731]
+Logistic Proportional Reward #: 93	Reward 5465.1931938	Loss 517272.241599
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 94	Reward 659.251425773	Loss 322216.527268
+[   0 2997    4]
+Logistic Proportional Reward #: 94	Reward 685.621482804	Loss 322263.559245
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 95	Reward 659.251425773	Loss 333122.033722
+[   0 2998    3]
+Logistic Proportional Reward #: 95	Reward 679.028968546	Loss 333166.578745
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 96	Reward 659.251425773	Loss 400007.977852
+[   0 3001]
+Logistic Proportional Reward #: 96	Reward 659.251425773	Loss 400007.977852
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 97	Reward 659.251425773	Loss 516937.814714
+[   0 3001]
+Logistic Proportional Reward #: 97	Reward 659.251425773	Loss 516937.814714
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 98	Reward 659.251425773	Loss 475602.752819
+[   0 3001]
+Logistic Proportional Reward #: 98	Reward 659.251425773	Loss 475602.752819
+1000
+2000
+3000
+[   0 3001]
+Epoch #: 99	Reward 659.251425773	Loss 706071.953273
+[   0 3001]
+Logistic Proportional Reward #: 99	Reward 659.251425773	Loss 706071.953273
